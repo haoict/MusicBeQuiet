@@ -1,0 +1,9 @@
+Package: me.lia.musicbequiet
+Name: MusicBeQuiet
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Pause Music At 0% Volume, Neat When Wearing Headphones
+Maintainer: lia <strawberryliaa@yahoo.com>
+Author: lia <strawberryliaa@yahoo.com>
+Section: Tweaks
